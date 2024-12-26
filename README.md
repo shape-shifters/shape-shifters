@@ -1,14 +1,15 @@
 ## Hi, I'm Nat 👋 
-🏴‍☠️ CEH | Pentester | Digital Forensics | 27k1 Auditor | IOT Developer 
+🏴‍☠️ CEH | Pentester | DevSecOps | Digital Forensics | 27k1 Auditor |
 
 - 🚀 Founder of *The Cyber Side - IT Consulting & Pentesting Services*
 - 🦾 Member of Shape-shifters Offensive Security Team 
 - 👩‍💻 I’m currently working on Pentesting all the things !
-- 🤓 I’m looking to collaborate on secure development
-- 🧠 Learning Full Stack development at the moment
+- 🤓 I’m always looking to collaborate on secure development
+- 🧠 Learning more of DevOps at the moment
 - 💡 I love offensive security, innovation and new technologies
 - 💬 Ask me about cybersecurity and building cool sh*t to break !
 - 😄 I’m interested in nerdy stuff
+- 🪄 Customization *is* a way of living !
 
 ##
 
